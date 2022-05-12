@@ -1,1 +1,13 @@
-My new file.
+1.   Item 1
+2.   Item 2
+
+To add embedded lists, add three spaes before the bullet or number:
+1.   Item 1
+2.   Item 2
+  -   Embedded Item
+  -   Embedded Item
+3.   Item 3
+To embed a non-list item, follow the list item above with two spaces to create a soft return.  
+1.   Item 1  
+Embedded Line
+2.   Item 2
